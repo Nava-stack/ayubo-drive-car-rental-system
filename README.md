@@ -14,7 +14,7 @@ Ayubo Drive, a transport arm of Ayubo Leisure (Pvt) Ltd, offers a fleet of vehic
 - **Function 1**: Calculate the total rent based on vehicle number, rental dates, and whether the vehicle is with or without a driver.
 
 <p align="center">
-  <img src="rent.png" alt="System Overview">
+  <img src="Rent pay.png" alt="System Overview">
 </p>
 
 ### Day Tour Hire Calculation
@@ -24,7 +24,7 @@ Ayubo Drive, a transport arm of Ayubo Leisure (Pvt) Ltd, offers a fleet of vehic
 - **Function 3**: Calculate the hire amount for long tours, including base charges, overnight stay charges, and extra distance charges.
 
 <p align="center">
-  <img src="hire.png" alt="System Overview">
+  <img src="Hire pay.png" alt="System Overview">
 </p>
 
 ## Technologies Used
